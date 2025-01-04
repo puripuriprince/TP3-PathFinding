@@ -1,23 +1,5 @@
-# TP3-PathFinding
-choses fait a part
-les algos
-les noeux
-les arcs
-linterface
-le switch de boutons actifs
-etc
+Part of the FIAM models i built to win the FIAM-mtl AI portfolio management hackathon.
 
+QUARCC
 
-
-extra things to implement;
-
-bidirectional search,
-multicolor algos,
-live-view?,
-toggable heuristic,
-better buttons/right click functionability,
-exportability,
-knot blockability,
-larger maps,
-collider width,
-percentage lenght between knots difference,
+https://fiamtl.com/2024-events/hackathon-2024/finalists-strategies/
